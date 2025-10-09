@@ -1,4 +1,4 @@
-# 🪙 Binance GUI Trading Bot — User Guide
+# 🪙 Binance GUI Trading Bot — User Guide  Made By Ved Patel...
 
 This guide explains how to **use** the Binance GUI Trading Bot to place real cryptocurrency trades using your Binance account.  
 Follow each step carefully to connect your account, place orders, and view results.
