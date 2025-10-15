@@ -4,7 +4,7 @@ This guide explains how to **use** the Binance GUI Trading Bot to place real cry
 Follow each step carefully to connect your account, place orders, and view results.
 
 ---
-jssjbjs
+jssjjs
 ## ⚡ Overview
 This trading bot provides a **simple and attractive GUI** that connects to **Binance.com** and allows users to:
 - Connect securely using their API Key and Secret.
